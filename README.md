@@ -714,15 +714,12 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![Alt text](image.png)
+![image](https://github.com/Anbuselvan04/softweb/assets/119410896/7830d709-2715-465f-9580-117aedaa87d0)
+![image](https://github.com/Anbuselvan04/softweb/assets/119410896/d335cc88-1abc-4951-b24f-0bc5a89dc38f)
+![image](https://github.com/Anbuselvan04/softweb/assets/119410896/f47c564a-f0c6-4af0-8996-c29757c22676)
+![image](https://github.com/Anbuselvan04/softweb/assets/119410896/f74fa7dd-f47d-4e97-a904-3d8d93f4855a)
+![image](https://github.com/Anbuselvan04/softweb/assets/119410896/ed4cf566-3d8a-4000-bc05-80140fc9fe37)
 
-![Alt text](image-1.png)
-
-![Alt text](image-2.png)
-
-![Alt text](image-3.png)
-
-![Alt text](image-4.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
